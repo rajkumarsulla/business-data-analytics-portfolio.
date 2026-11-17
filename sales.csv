@@ -1,0 +1,7 @@
+order_id,order_date,category,product,quantity,unit_price,unit_cost
+1001,2026-01-05,Electronics,Keyboard,2,35,20
+1002,2026-01-12,Home,Desk Lamp,1,45,28
+1003,2026-02-02,Electronics,Mouse,3,20,10
+1004,2026-02-15,Office,Notebook,5,8,3
+1005,2026-03-03,Home,Desk Lamp,2,45,28
+1006,2026-03-19,Office,Pen Set,4,12,5

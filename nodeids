@@ -1,0 +1,4 @@
+[
+  "tests/test_analyze.py::test_missing_file",
+  "tests/test_analyze.py::test_sample_kpis"
+]
